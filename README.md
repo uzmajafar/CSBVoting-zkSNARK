@@ -1,1 +1,1 @@
-# BCSVoting-zkSNARK
+# CSBVoting-zkSNARK
